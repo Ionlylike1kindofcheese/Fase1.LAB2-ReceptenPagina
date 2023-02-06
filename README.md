@@ -1,1 +1,1 @@
-# Fase1.LAB2-ReceptenPagina
+# LAB2-ReceptenPagina
